@@ -1,5 +1,5 @@
 # Creating Module:
-
+print("Sojib Fucked up")
 #math in python:
 print("Finding the minimum and maximum number in x and y:")
 x = min(5, 10, 25)
